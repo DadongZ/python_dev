@@ -10,3 +10,7 @@
   - list of dict
 
 ## clean, readability, predictability, DRY (don't repeat yourself)
+
+## test your assumptions
+
+## pros and cons of libraries
