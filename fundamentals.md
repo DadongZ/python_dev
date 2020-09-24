@@ -14,3 +14,5 @@
 ## test your assumptions
 
 ## pros and cons of libraries
+
+## Pick the RIGHT library
