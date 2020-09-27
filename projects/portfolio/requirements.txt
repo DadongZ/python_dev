@@ -1,0 +1,63 @@
+appdirs==1.4.4
+attrs==20.2.0
+backcall==0.2.0
+beautifulsoup4==4.9.1
+blinker==1.4
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///tmp/build/80754af9/cffi_1600699146221/work
+chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1600358500179/work
+click==7.1.2
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1600960155296/work
+decorator==4.4.2
+distlib==0.3.1
+filelock==3.0.12
+Flask==1.1.2
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+iniconfig==1.0.1
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596207638929/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1598883821407/work
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi @ file:///tmp/build/80754af9/jedi_1598371611696/work
+Jinja2==2.11.2
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-core==4.6.3
+MarkupSafe==1.1.1
+more-itertools==8.5.0
+oauthlib==3.0.1
+olefile==0.46
+packaging==20.4
+parso==0.7.0
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///tmp/build/80754af9/pillow_1594307295532/work
+pluggy==0.13.1
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
+ptyprocess==0.6.0
+py==1.9.0
+py4j==0.10.9
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pyinotify==0.9.6
+PyJWT==1.7.1
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+PySocks==1.7.1
+pyspark==3.0.0
+pytest==6.0.2
+python-dateutil==2.8.1
+pyzmq==19.0.2
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+selenium==3.141.0
+six==1.15.0
+soupsieve==2.0.1
+toml==0.10.1
+tornado==6.0.4
+traitlets @ file:///tmp/build/80754af9/traitlets_1600712396819/work
+tweepy @ file:///home/conda/feedstock_root/build_artifacts/tweepy_1594498408379/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
+virtualenv==20.0.31
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+Werkzeug==1.0.1

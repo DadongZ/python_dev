@@ -1,13 +1,9 @@
 {
-    "python.pythonPath": "/usr/local/anaconda3/envs/.venv/bin/python",
-    "python.testing.unittestArgs": [
-        "-v",
-        "-s",
-        "./__pycache__",
-        "-p",
-        "test*.py"
+    "python.testing.pytestArgs": [
+        "."
     ],
-    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.unittestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "/usr/local/anaconda3/envs/.venv/bin/python"
 }
