@@ -45,4 +45,7 @@
     
     ![<img src="type.png" width="150"/>](./figs/type.png)
 
+    - Steps
+
+    ![<img src="steps.png" width="150"/>](./figs/steps.png)
 - Deep neural networks: one of techniques for implementing machine learning. a type of algorithm.
