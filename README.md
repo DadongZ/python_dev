@@ -9,7 +9,19 @@
 - [Python basics I](#python-basics-i)
 - [Python basics II](#python-basics-ii)
 - [Developer Environment](#developer-environment)
-- [OOP](#oop)
+- [Functional programming](#functional-programming)
+- [Decorators](#decorators)
+- [Error](#error)
+- [Generator](#generator)
+- [Modules](#modules)
+- [Debugging](#debugging)
+- [IO](#io)
+- [Regular expression](#regular-expression)
+- [Testing](#testing)
+- [Scripting](#scripting)
+- [Web Scrapting](#web-scrapting)
+- [Web development](#web-development)
+- [Automation](#automation)
 - [AI and Machine Learning](#ai-and-machine-learning)
 
 ### Introduction
@@ -19,11 +31,18 @@
 ### AI and Machine Learning
 - AI: human intelligence exhibited by machines
 
-    ![<img src="AI.png" width="250"/>](./figs/AI.png)
+    ![<img src="AI.png" width="200"/>](./figs/AI.png)
 
 - Machine learning: a subset of AI., an approach to try to achieve artificial intellegence through systems that can find patterns in a set of data.
 
-    ![<img src="ML.png" width="250"/>](./figs/ML.png)
+    ![<img src="ML.png" width="200"/>](./figs/ML.png)
 
 - Machine learning: the science of getting computers act without being explicitly programmed that is getting machines to do things without us specifically saying.
+    
+    ![<img src="DB.png" width="200"/>](./figs/ML.png)
+
+    -  Type of ML
+    
+    ![<img src="type.png" width="200"/>](./figs/ML.png)
+
 - Deep neural networks: one of techniques for implementing machine learning. a type of algorithm.
